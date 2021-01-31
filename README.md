@@ -18,6 +18,6 @@
 </div>
 </br>
 <p align="center">
-    Currently working on <a target="_blank" href="#">Grupo Leiros</a> as Backend Engineer, writter on <a target="_blank" href="#">Medium</a> and Radio operator by hobbie on my city.</br>
+    Currently working on <a target="_blank" href="#">Circle SPA</a> as Full Stack Engineer, writter on <a target="_blank" href="#">Medium</a> and Radio operator by hobbie on my city.</br>
     In constant learning, interested on Golang and also on Data Science and Machine Learning to the future.
 </p>
