@@ -10,7 +10,42 @@
 </br>
 <p align = "center">
     My Technologies: </br>
-    #Javascript #Typescript #Ruby #NodeJS #VueJS #ReactJS #Dart #Flutter #SQL #MongoDB #Git #Docker 
+    <a> 
+        <img src="https://raw.githubusercontent.com/sgcm14/sgcm14/2eca8deae8152cdbf0de7e62aad2a0ce66ef687f/javascript.svg" width="40" height="40"/>
+    </a>
+    <a>
+        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="40" height="40"/>
+    </a>
+    <a>
+        <img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" width="40" height="40"/>
+    </a>
+    <a>
+        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="40" height="40"/>
+    </a>
+    <a>
+        <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="40" height="40"/>
+    </a>
+    <a>
+        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="40" height="40"/>
+    </a>
+    <a>
+        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40"/>
+    </a>
+    <a>
+        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/>
+    </a>
+    <a>
+        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="40" height="40"/>
+    </a>
+    <a>
+        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="40" height="40"/>
+    </a>
+    <a>
+        <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40" height="40"/>
+    </a>
+    <a>
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+    </a>
 </p>
 </br>
 <div align="center">
@@ -20,4 +55,13 @@
 <p align="center">
     Currently working on <a target="_blank" href="https://circledigital.io">Circle SPA</a> as Full Stack Engineer, writer on <a target="_blank" href="#">Medium</a> and Radio operator by hobby on my city.</br>
     In constant learning, interested on Golang and also on Data Science and Machine Learning to the future.
+</p>
+<p align="center">
+  <a href="https://linkedin.com/in/sgcm14/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="30" width="30">
+  </a>
+
+  <a href="http://twitter.com/sgcm14" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" height="30" width="30">
+  </a>
 </p>
