@@ -57,11 +57,11 @@
     In constant learning, interested on Golang and also on Data Science and Machine Learning to the future.
 </p>
 <p align="center">
-  <a href="https://linkedin.com/in/sgcm14/" target="_blank">
+  <a href="https://www.linkedin.com/in/jose-manuel-veliz/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="30" width="30">
   </a>
 
-  <a href="http://twitter.com/sgcm14" target="_blank">
+  <a href="https://twitter.com/Ducen29" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" height="30" width="30">
   </a>
 </p>
