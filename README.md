@@ -1,6 +1,6 @@
 <p align="center">
     Hi everyone, I`m José Veliz <a target="_blank" href="https://twitter.com/Ducen29">(Duccem)</a></br> 
-    A young Full Stack Software Engineer, DevOps Engineer and Writer from Venezuela </br>
+    A young Full Stack Software Engineer from Venezuela </br>
     An passionate to ESports, Anime and books, the biggest fan of Naruto, Stormlight Archive and Professional LOL </br> 
 </p>
 </br>
@@ -49,12 +49,12 @@
 </p>
 </br>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Duccem&show_icons=true&theme=tokyonight" height=150 ></img>
+    <img src="https://github-readme-stats.vercel.app/api?username=Duccem&show_icons=true&title_color=fff&bg_color=15E9DC&border_color=fff&text_color=fff&border_radius=10" height=150 ></img>
 </div>
 </br>
 <p align="center">
-    Currently working on <a target="_blank" href="https://circledigital.io">Circle SPA</a> as Full Stack Engineer, writer on <a target="_blank" href="#">Medium</a> and Radio operator by hobby on my city.</br>
-    In constant learning, interested on Golang and also on Data Science and Machine Learning to the future.
+    Currently working on <a target="_blank" href="https://www.rappi.com">Rappi</a> as Full Stack Engineer, writer on <a target="_blank" href="#">Medium</a></br>
+    In constant learning, interested on mobile hybrid development and entrepreneurship.
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/jose-manuel-veliz/" target="_blank">
