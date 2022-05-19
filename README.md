@@ -1,13 +1,3 @@
-<style>
-  .avatar img {
-    border-radius:50% !important
-  }
-  .tarjetas a {
-    margin-top: 10px;
-    margin-right: 20px;
-    margin-bottom: 10px;
-  }
-</style>
 <div align="center" class="avatar">
     <img src="https://raw.githubusercontent.com/Duccem/Duccem/master/media/avatar2.jpg" height=150 width=150></img>
 </div>
@@ -43,14 +33,17 @@ const jose = {
 ## My relevant projects
 
 <div class="tarjetas">
-  <a href="https://github.com/emae1712/grupo-2-pineapple-supermarket-app">
+  <a href="https://github.com/emaeDuccem1712/ducen">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Duccem&repo=ducen&show_icons=true&title_color=fff&bg_color=15E9DC&border_color=fff&text_color=fff&border_radius=10" alt="Ducen - backend prototype" />
   </a>
-  <a href="https://github.com/emae1712/grupo-2-pineapple-supermarket-app">
+  <a href="https://github.com/Duccem/ducenfy">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Duccem&repo=ducenfy&show_icons=true&title_color=fff&bg_color=15E9DC&border_color=fff&text_color=fff&border_radius=10" alt="Ducenfy - audio web reproductor with vue" />
   </a>
-  <a href="https://github.com/emae1712/grupo-2-pineapple-supermarket-app">
+  <a href="https://github.com/Duccem/audiostream">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Duccem&repo=audiostream&show_icons=true&title_color=fff&bg_color=15E9DC&border_color=fff&text_color=fff&border_radius=10" alt="Audiostream - a stream of media service" />
+  </a>
+  <a href="https://github.com/Duccem/ducengram">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Duccem&repo=ducengram&show_icons=true&title_color=fff&bg_color=15E9DC&border_color=fff&text_color=fff&border_radius=10" alt="Clone of instagram with django" />
   </a>
 </div>
 
