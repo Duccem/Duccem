@@ -5,7 +5,7 @@
 </p>
 </br>
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Duccem/Duccem/master/media/avatar.jpg" height=150 width=150 style="border-radius:50% !important"></img>
+    <img src="https://raw.githubusercontent.com/Duccem/Duccem/master/media/avatar2.jpg" height=150 width=150 style="border-radius:50% !important"></img>
 </div>
 </br>
 <p align = "center">
