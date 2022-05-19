@@ -1,7 +1,3 @@
-<div align="center" class="avatar">
-    <img src="https://raw.githubusercontent.com/Duccem/Duccem/master/media/avatar2.jpg" height=150 width=150></img>
-</div>
-
 ## Hi everyone, I`m José Veliz <a target="_blank" href="https://twitter.com/Ducen29">(Duccem)</a>
 - I`m a young Full Stack Software Engineer from Venezuela
 - An passionate to ESports, Anime and books, the biggest fan of Naruto, Stormlight Archive and Professional LOL
