@@ -29,7 +29,7 @@ const jose = {
 ## My relevant projects
 
 <div class="tarjetas">
-  <a href="https://github.com/emaeDuccem1712/ducen">
+  <a href="https://github.com/Duccem/ducen">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Duccem&repo=ducen&show_icons=true&title_color=fff&bg_color=15E9DC&border_color=fff&text_color=fff&border_radius=10" alt="Ducen - backend prototype" />
   </a>
   <a href="https://github.com/Duccem/ducenfy">
