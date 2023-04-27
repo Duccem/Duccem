@@ -25,16 +25,3 @@ const jose = {
 ## My contribution
 
 <img src="https://github-readme-stats.vercel.app/api?username=Duccem&show_icons=false&title_color=fff&bg_color=9747FF&border_color=fff&text_color=fff&border_radius=10" height=150 ></img>
-
-## My relevant projects
-
- [![](https://github-readme-stats.vercel.app/api/pin/?username=Duccem&repo=ducen&show_icons=true&title_color=fff&bg_color=9747FF&border_color=fff&text_color=fff&border_radius=10&show_owner=true)](https://github.com/Duccem/ducen)   
- 
- 
- [![](https://github-readme-stats.vercel.app/api/pin/?username=Duccem&repo=ducenfy&show_icons=true&title_color=fff&bg_color=9747FF&border_color=fff&text_color=fff&border_radius=10&show_owner=true)](https://github.com/Duccem/ducenfy)   
-
-
- [![](https://github-readme-stats.vercel.app/api/pin/?username=Duccem&repo=audiostream&show_icons=true&title_color=fff&bg_color=9747FF&border_color=fff&text_color=fff&border_radius=10&show_owner=true)](https://github.com/Duccem/audiostream) 
- 
-                      
- [![](https://github-readme-stats.vercel.app/api/pin/?username=Duccem&repo=ducengram&show_icons=true&title_color=fff&bg_color=9747FF&border_color=fff&text_color=fff&border_radius=10&show_owner=true)](https://github.com/Duccem/ducengram)                      
