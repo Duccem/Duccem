@@ -1,5 +1,5 @@
 ## Hi everyone, I`m José Veliz <a target="_blank" href="https://twitter.com/Ducen29">(Duccem)</a>
-- I`m a young Full Stack Software Engineer from Venezuela
+- I`m a Full Stack Software Engineer from Venezuela
 - An passionate to ESports, Anime and books, the biggest fan of Naruto, Stormlight Archive and Professional LOL
 - Currently working on <a target="_blank" href="https://www.rappi.com">Rappi</a> as Full Stack Engineer, writer on <a target="_blank" href="https://medium.com/@ducen29">Medium</a>
 - In constant learning, interested on mobile hybrid development and entrepreneurship.
@@ -15,10 +15,10 @@
 
 ```javascript
 const jose = {
-  code: ["HTML", "CSS", "Javascript", "Typescript", "Ruby", "Dart"],
-  tools: ["Git", "SQL", "NoSQL", "MessageBrokers"],
+  code: ["HTML", "CSS", "Javascript", "Typescript", "Python", "Dart"],
+  tools: ["Git", "SQL", "NoSQL", "RabbitMQ"],
   architectures: ["DDD", "TDD", "Unit / Integration / E2E Testing", "Microservice & microfrontends", "CQRS" ],
-  hobbies: ["Reading", "Football", "Lol & Valorant", "Study"]
+  hobbies: ["Reading", "Football", "Lol & Valorant", "Studying"]
 }
 ```
 
