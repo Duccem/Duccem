@@ -1,6 +1,6 @@
 # 👋 Hi! I`m José Veliz (Duccem)
 
-I'm a **Full Stack Developer** skilled in **NextJS, React, React Native, and NestJS**, with a passion for **eSports**, **anime**, and an avid fan of **Naruto** and the **Stormlight Archive universe**. Currently working at **[Rappi](https://www.rappi.com.mx)**, I’m always eager to explore **hybrid mobile development** and entrepreneurship.
+I'm a **Full Stack Developer** skilled in **NextJS, React, React Native, and NestJS**, with a passion for **eSports**, **anime**, and an avid fan of **Naruto** and the **Stormlight Archive universe**. Currently looking for a job, I’m always eager to explore **hybrid mobile development** and entrepreneurship.
 
 ## 🚀 Skills and Technologies
 - **Languages:** HTML, CSS, Javascript, Typescript, Python
@@ -9,7 +9,7 @@ I'm a **Full Stack Developer** skilled in **NextJS, React, React Native, and Nes
 - **Tools:** Docker, Kafka, GitHub Actions
 
 ## 🎯 Highlighted Projects
-- **[Ducen Hospital/Helsa](https://github.com/Duccem/ducen-hospital)**: A cutting-edge telemedicine platform designed to connect patients and healthcare providers seamlessly.
+- **[Helsa](https://github.com/Duccem/helsa)**: A cutting-edge telemedicine platform designed to connect patients and healthcare providers seamlessly.
 - **[Ducen Ride](https://github.com/Duccem/ducen-ride)**: The best way to move around your city
 - **[Ducen Money](#)** The best way to pay bills, restaurants with your friends and more
 
